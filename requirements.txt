@@ -1,0 +1,5 @@
+coqui-tts
+numpy
+Flask
+gradio
+TTS
